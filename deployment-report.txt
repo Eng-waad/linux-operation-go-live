@@ -1,0 +1,19 @@
+=== DEPLOYMENT REPORT ===
+
+Date: Generated dynamically during lab
+Operator: Waad
+
+Installed Packages:
+- nginx
+- postgresql
+- curl
+- htop
+- tree
+
+Service Status:
+nginx active and enabled
+
+Web Server Test:
+HTTP 200
+
+=== END REPORT ===
